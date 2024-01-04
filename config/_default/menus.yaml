@@ -8,17 +8,18 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: 'uploads/CV_2023.pdf'
+    # url: 'uploads/CV_2023.pdf'
+    url: '/cv'
     weight: 20
   - name: Research
     url: '/Research'
     weight: 30
-  - name: Learning
-    url: '/Learning'
-    weight: 40
-  - name: Life
-    url: '/Life'
-    weight: 50
+  # - name: Learning
+  #   url: '/Learning'
+  #   weight: 40
+  # - name: Life
+  #   url: '/Life'
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 70

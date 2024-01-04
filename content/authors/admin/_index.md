@@ -20,6 +20,8 @@ role: PhD Candidate at The Ohio State University
 organizations:
   - name: Department of Agricultural, Environmental, and Development Economics
     url: https://aede.osu.edu/our-people/hyeseon-shin
+  - name: "shin.774@osu.edu"
+
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

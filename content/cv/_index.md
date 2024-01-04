@@ -1,16 +1,15 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Life"
+title: ""
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2024-01-03T00:00:05-05:00
-lastmod: 2024-01-03T00:00:05-05:00
+date: 2024-01-04T14:43:15-05:00
+lastmod: 2024-01-04T14:43:15-05:00
 featured: false
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,3 +26,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< pdfviewer url="uploads/CV_2023.pdf" >}}
