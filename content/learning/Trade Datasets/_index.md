@@ -67,6 +67,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 1. **UNComtrade**
 
    - Comprehensive trade flows dataset.
+   - UN COMTRADE data can be downloaded with a limit of 100,000 rows/request, if without subscription. 
    - Variables include export, import, re-export, re-import, domestic export, foreign export, import of goods for inward processing, import of goods after inward processing, etc.
 
    - Link: [UNComtrade](https://comtradeplus.un.org/).
@@ -109,3 +110,17 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
    - US-focused bilateral trade dataset, available at a detailed food item level.
    - Link: [USDA](https://fas.usda.gov/data).
+
+    <br/>
+
+
+7. **WITS**
+   - Trade and Tariff data
+   - Link: [WITS](https://wits.worldbank.org/WITS/WITS/Restricted/Login.aspx). 
+
+    <br/>
+
+8. **WIIW** 
+   - Non-tariff measures (NTM) data at 6-digit HS code for the period 1995-2019. 
+   - Link: [WIIW](https://wiiw.ac.at/wiiw-ntm-data-ds-2.html). 
+
