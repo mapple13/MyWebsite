@@ -20,7 +20,7 @@ doi: ""
 # publication: "*Journal of Source Themes, 1*(1)"
 # publication_short: ""
 
-abstract: This is a collection of useful trade or relevant data source. I will be keep updating!
+abstract: This is a collection of useful trade or relevant data source. I will be keep updating! 
 
 # Summary. An optional shortened abstract.
 # summary: We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments outlined in the 2015 Paris Agreement. Our model shows that the emission permit price reaches $749 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
@@ -35,8 +35,8 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).
@@ -66,7 +66,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 1. **UNComtrade**
 
-   - Most comprehensive trade flows dataset. 
+   - Comprehensive trade flows dataset.
    - Variables include export, import, re-export, re-import, domestic export, foreign export, import of goods for inward processing, import of goods after inward processing, etc.
 
    - Link: [UNComtrade](https://comtradeplus.un.org/).
@@ -74,16 +74,16 @@ Add the publication's **full text** or **supplementary notes** here. You can use
    <br/>
 
 2. **CEPII**
-   - Gravity variables (distance, common language, colonial experience, etc)
-   - Bilateral trade flows are also available (1995~). You can do a bulk download with this at the 6-digit HS code instead of using UNComtrade. ([CEPII](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37))
+   - Gravity variables (distance, common language, colonial experience, etc).
+   - Bilateral trade flows are also available (1995~). You can do a bulk download with this at the 6-digit HS code instead of using UNComtrade. [CEPII](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37).
 
-   - Link: [CEPII](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp)
+   - Link: [CEPII](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp).
 
    <br/>
 
 3. **International Trade and Production Database for Estimation (ITPD-E)**
 
-   - The database contains consistent data on international and domestic trade at the industry level, covering agriculture, mining, energy, manufacturing, and services. 
+   - The database contains consistent data on international and domestic trade at the industry level, covering agriculture, mining, energy, manufacturing, and services.
 
    - Link: [ITPD-E](https://www.usitc.gov/data/gravity/itpde.htm).
 
@@ -91,6 +91,21 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 4. **UNCTAD**
 
-   -  Data includes international merchandise trade, trade in services, digital economy, trade and biodiversity, ocean trade, technology and innovation, plastics trade, commodity prices, etc.
+   - Data includes international merchandise trade, trade in services, digital economy, trade and biodiversity, ocean trade, technology and innovation, plastics trade, commodity prices, etc.
 
    - Link: [UNCTAD](https://unctadstat.unctad.org/datacentre/).
+
+   <br/>
+
+5. **FAO**
+
+   - Food and agricultural trade dataset, available at a detailed food item level.
+
+   - Link: [FAODATA](https://www.fao.org/faostat/en/#data/TM).
+
+   <br/>
+
+6. **USDA**
+
+   - US-focused bilateral trade dataset, available at a detailed food item level.
+   - Link: [USDA](https://fas.usda.gov/data).
