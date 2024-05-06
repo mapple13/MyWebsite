@@ -22,16 +22,15 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Source Themes, 1*(1)"
-# publication_short: ""
+# # publication: "*Journal of Source Themes, 1*(1)"
+# # publication_short: ""
 
-abstract: We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and updated in subsequent years. Our model shows that the emission permit price
-reaches $811 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
+abstract: We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and updated in subsequent years. Our model shows that the emission permit price reaches $811 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
 
 
 # Summary. An optional shortened abstract.
-summary: We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and updated in subsequent years. Our model shows that the emission permit price
-reaches $811 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
+summary: We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and updated in subsequent years. Our model shows that the emission permit price reaches $811 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
+
 
 tags:
 - Climate Change
@@ -98,9 +97,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
 
-We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and updated in subsequent years. Our model shows that the emission permit price
-reaches $811 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
+We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions in the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and updated in subsequent years. Our model shows that the emission permit price reaches $811 per ton of carbon by 2050. We demonstrate that a regional carbon tax is complementary to the global cap-and-trade system, and the optimal regional carbon tax is equal to the difference between the regional marginal abatement cost and the permit price.
 
 
 **This paper has been submitted and is currently available at [Arxiv](https://arxiv.org/abs/2312.15563).**
-

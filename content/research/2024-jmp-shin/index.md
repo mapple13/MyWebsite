@@ -81,5 +81,3 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 Given the agricultural sector’s substantial contribution to both GDP and employment in developing economies, climate shocks affecting agricultural productivity have the potential to reshape inter-regional and inter-sectoral labor reallocation, as well as agricultural production. I build and quantify a dynamic spatial general equilibrium model incorporating farmers’ optimal crop choices, household migration, and international trade. The model is quantified for 20 major crops and 60 regions covering 140 countries around the world, evaluating climate scenarios RCP 4.5 and 8.5. This study shows that the general equilibrium effects of labor mobility are nontrivial, and labor reallocation can play a crucial role in mitigating the adverse effects of climate change along with production and trade adjustments.
 
-**Work in progress**
-
