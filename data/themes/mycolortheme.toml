@@ -14,4 +14,4 @@ name = "mycolortheme"
   # Backgrounds
   background = "#FFF8DC"
   home_section_odd = "#FFF8DC"
-  home_section_even = "#FFF8DC"
+  home_section_even = "#FFFDF6"

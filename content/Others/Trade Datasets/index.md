@@ -1,8 +1,6 @@
 ---
 title: "Useful Trade Datasets"
 authors:
-# - Yongyang Cai
-# - Khyati Malik
 - Hyeseon Shin
 
 date: "2024-02-04"

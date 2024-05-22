@@ -128,13 +128,31 @@ sections:
   #   design:
   #     columns: '2'
 
+
+#########################
+# Publication
+#########################
+  - block: collection
+    id: publication
+    content:
+      title: Publications
+      filters:
+        folders:
+          - MyPublication
+        featured_only: false
+    design:
+      view: citation    
+# citation      
+#      view: article-grid
+      columns: '2'
+
 #########################
 # Research - full 
 #########################
   - block: collection
-    id: recentresearch
+    id: workingpaper
     content:
-      title: Research
+      title: Working Papers
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -142,7 +160,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - research
+          - MyWorkingPaper
         author: ""
         category: ""
         tag: ""
@@ -159,6 +177,22 @@ sections:
       view: compact
       columns: '2'
 
+#########################
+# Other Articles
+#########################
+  - block: collection
+    id: oherarticles
+    content:
+      title: Other Articles
+      filters:
+        folders:
+          - OtherArticles
+        featured_only: false
+    design:
+      view: citation    
+# citation      
+#      view: article-grid
+      columns: '2'
 
 #########################
 # Research - reduced 

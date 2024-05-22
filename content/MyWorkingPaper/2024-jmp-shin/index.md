@@ -1,6 +1,5 @@
 ---
-title: "[JMP] Agriculture, Trade, Migration and Climate Change
-"
+title: "[JMP] Agriculture, Trade, Migration and Climate Change"
 authors:
 - Hyeseon Shin
 

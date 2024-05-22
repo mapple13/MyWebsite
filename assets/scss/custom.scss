@@ -81,7 +81,7 @@ content: "\f501\00a0"
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
   font-size: 18px;
-  text-align: left;
+  text-align: justify;
 }
 
 .docs-toc {
@@ -114,7 +114,7 @@ content: "\f501\00a0"
   /* Change article title formatting without changing normal h1 headings */
   .pt-3 h1 {
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   /* The opposite; change post h1 without changing page title formatting */
@@ -137,7 +137,7 @@ content: "\f501\00a0"
   }
 
   h1 {
-    font-size: 1.5rem;
+    font-size: .5rem;
     font-weight: bold;
   }
 

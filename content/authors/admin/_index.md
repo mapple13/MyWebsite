@@ -120,7 +120,6 @@ education:
 highlight_name: true
 ---
 
-
 {style="text-align: justify;"}
 Hello! I am a Ph.D. candidate in Agricultural, Environmental, and Development Economics at The Ohio State University. My research interests are centered around international trade, exploring the intersection of agricultural and environmental economics, and climate change. Recently, I have been working on topics such as dynamic emission permit prices under global emission trading system (ETS), the non-monotonic effects of non-tariff measures (NTMs) on food product quality upgrading, and the impact of climate change on agricultural production in dynamic spatial general equilibrium model. 
 

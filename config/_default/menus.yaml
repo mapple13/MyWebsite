@@ -12,10 +12,11 @@ main:
     # url: '/cv'
     weight: 20
   - name: Research
-    url: '/research'
+    # url: '/research'
+    url: '#publication'
     weight: 30
-  - name: Learning
-    url: '/learning'
+  - name: Others
+    url: '/Others'
     weight: 40
   # - name: Life
   #   url: '/Life'
