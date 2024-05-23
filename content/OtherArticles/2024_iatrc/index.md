@@ -6,10 +6,10 @@ authors:
 - Raphael Gomes de Silva
 - Valentyn Litvinov
 - Saera Oh
-- Anh Phuoc, Thien
+- Anh Phuoc Thien Nguyen
 
 
-date: "2024-01-01"
+date: "2024-05-20"
 showthedate: false
 #lastmod: ""
 
