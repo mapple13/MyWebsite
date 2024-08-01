@@ -11,9 +11,13 @@ main:
     url: 'uploads/resume.pdf'
     # url: '/cv'
     weight: 20
+  # - name: Research
+  #   # url: '/research'
+  #   url: '#publication'
+  #   weight: 30
   - name: Research
     # url: '/research'
-    url: '#publication'
+    url: '/MyResearch'
     weight: 30
   - name: Others
     url: '/Others'
@@ -32,3 +36,4 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+

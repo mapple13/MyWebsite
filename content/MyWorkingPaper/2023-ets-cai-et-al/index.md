@@ -5,12 +5,15 @@ authors:
 - Khyati Malik
 - Hyeseon Shin
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2023-12-24"
+# date: "2023-12-24"
+showthedate: false
+#lastmod: ""
+
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
