@@ -55,7 +55,7 @@ Given the agricultural sector’s substantial contribution to both GDP and emplo
 
 <br>
 
-Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation (draft)**. **[[Preprint]](https://arxiv.org/pdf/2312.15563)**.  
+Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. **[[Preprint]](https://arxiv.org/pdf/2312.15563)**.  
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
