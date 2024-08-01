@@ -19,9 +19,9 @@ main:
     # url: '/research'
     url: '/MyResearch'
     weight: 30
-  - name: Others
-    url: '/Others'
-    weight: 40
+  # - name: Others
+  #   url: '/Others'
+  #   weight: 40
   # - name: Life
   #   url: '/Life'
   #   weight: 50
