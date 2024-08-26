@@ -121,11 +121,8 @@ highlight_name: true
 ---
 
 {style="text-align: justify;"}
-Hello! I am a Ph.D. candidate in Agricultural, Environmental, and Development Economics at The Ohio State University. My research interests are centered around international trade, exploring the intersection of agricultural and environmental economics, and climate change. Recently, I have been working on topics such as dynamic emission permit prices under global emission trading system (ETS), the non-monotonic effects of non-tariff measures (NTMs) on food product quality upgrading, and the impact of climate change on agricultural production in dynamic spatial general equilibrium model. 
+Hello! I am a Ph.D. candidate in Agricultural, Environmental, and Development Economics at The Ohio State University. My research interests are centered around international trade, exploring the intersection of agricultural and environmental economics, and climate change. My [**job market paper**]() analyzes the impact of **climate change on agricultural production** using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and labor mobility. Recently, I have been also working on topics such as dynamic emission permit prices under **global emission trading system (ETS)**, the non-monotonic effects of **non-tariff measures (NTMs)** on food product quality upgrading. 
 
 **I will be on 2024-2025 job market.** 
 
-**Upcoming Events**
-* [2024 AAEA Annual Meeting in New Orleans](https://www.aaea.org/meetings/2024-aaea-annual-meeting) (28-30, July 2024). Poster Presentation. 
-* [2024 AAEA - KREI Workshop](https://www.krei.re.kr/krei/index.do) (30, July 2024) Presentation (Korean). 
-* [Camp Resources XXX](https://cenrep.ncsu.edu/events/camp-resources/) (4-6, August 2024). Presentation. 
+
