@@ -38,7 +38,9 @@ links:
   - icon_pack: ai
     icon: open-access
     name: Link
-    url: 'https://ageconsearch.umn.edu/record/340810?ln=en&v=pdf'
+    url: 'uploads/article_Shin_et_al_2024.pdf'
+
+#url: 'https://ageconsearch.umn.edu/record/340810?ln=en&v=pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

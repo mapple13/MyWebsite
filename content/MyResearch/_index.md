@@ -69,7 +69,7 @@ We build a dynamic multi-region model of climate and economy with emission permi
 ---
 
 ## Other Articles
-Hyeseon Shin, Raphael Gomes de Silva, Valentyn Litvinov, Saera Oh, Anh Phuoc Thien Nguyen (2024). **The Future of (Ag-) Trade and Trade Governance in Times of Economic Sanctions and Declining Multilateralism**. _IATRC Trade Policy Brief_. **[[Link]](https://ageconsearch.umn.edu/record/340810?ln=en&v=pdf)**
+Hyeseon Shin, Raphael Gomes de Silva, Valentyn Litvinov, Saera Oh, Anh Phuoc Thien Nguyen (2024). **The Future of (Ag-) Trade and Trade Governance in Times of Economic Sanctions and Declining Multilateralism**. _IATRC Trade Policy Brief_. **[[PDF]](/uploads/article_Shin_et_al_2024.pdf)**
 
 
 <br>
