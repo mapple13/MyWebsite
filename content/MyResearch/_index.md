@@ -29,7 +29,7 @@ projects: []
 ---
 
 ## Publications
- Jihyun Eum, Ian Sheldon, Hyeseon Shin, Stanley Thompson (2024). **Upgrading Food Product Quality: Evaluating the Impact of Competition and Non-Tariff Measures**. _Journal of Agricultural and Resource Economics_  (forthcoming). **[[Preprint]](https://ageconsearch.umn.edu/record/342179?ln=en)**
+ Jihyun Eum, Ian Sheldon, Hyeseon Shin, Stanley Thompson (2024). **Upgrading Food Product Quality: Evaluating the Impact of Competition and Non-Tariff Measures**. _Journal of Agricultural and Resource Economics_. **[[Link]](https://jareonline.org/articles/upgrading-food-product-quality-evaluating-the-impact-of-competition-and-non-tariff-measures/)**
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
