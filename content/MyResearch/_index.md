@@ -46,6 +46,7 @@ In this paper, the effect of non-tariff measures (NTMs) on upgrading of food pro
 
 [**Job Market Paper**] Hyeseon Shin. **[Agriculture, Trade, Migration and Climate Change]().** Draft available upon request. 
 
+<small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small>
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
@@ -56,6 +57,8 @@ Given the agricultural sector’s substantial contribution to both GDP and emplo
 <br>
 
 Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. **[[Preprint]](https://arxiv.org/pdf/2312.15563)**.  
+
+<small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum*</small>
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
