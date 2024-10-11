@@ -121,7 +121,13 @@ highlight_name: true
 ---
 
 {style="text-align: justify;"}
-Hello! I am a Ph.D. candidate in Agricultural, Environmental, and Development Economics at The Ohio State University. My research interests are centered around international trade, exploring the intersection of agricultural and environmental economics, and climate change. My [**job market paper**]() analyzes the impact of **climate change on agricultural production** using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and labor mobility. Recently, I have been also working on topics such as dynamic emission permit prices under **global emission trading system (ETS)**, the non-monotonic effects of **non-tariff measures (NTMs)** on food product quality upgrading. 
+Hello! I am a Ph.D. candidate in Agricultural, Environmental, and Development Economics at The Ohio State University. 
+
+How does climate change affect the global food production? What is the role of trade and migration policies? Can global emission trading system help mitigate climate change? In aswering these directly policy-relevant questions, I draw on methods in international trade, agricultural and environmental economics. 
+
+
+My [**job market paper**]() analyzes the impact of **climate change on agricultural production** using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and labor mobility. Recently, I have been also working on topics such as dynamic emission permit prices under **global emission trading system (ETS)**, the non-monotonic effects of **non-tariff measures (NTMs)** on food product quality upgrading. 
+
 
 **I will be on 2024-2025 job market.** 
 
