@@ -60,7 +60,7 @@ Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit P
 
 <small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum*</small>
 
-![Description of the figure](/myfigures/cai_et_al_2024_fig.png)
+<!-- ![Description of the figure](/myfigures/cai_et_al_2024_fig.png) -->
 
 
 <span style="font-size: smaller;">
