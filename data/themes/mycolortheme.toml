@@ -6,7 +6,7 @@ name = "mycolortheme"
   primary = "#EF525B"
 
   # Menu
-  menu_primary = "#556B2F"
+  menu_primary = "#040354"
   menu_text = "#fff"
   menu_text_active = "#FFC300"
   menu_title = "#fff"
