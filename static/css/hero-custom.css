@@ -7,3 +7,17 @@
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
 }
+
+
+
+/* Default styles for desktop and larger devices */
+.top-bar {
+  background-color: #EF525B; /* Highlighted primary color */
+}
+
+/* Mobile-specific styles */
+@media (max-width: 768px) {
+  .top-bar {
+    background-color: #556B2F; /* Dark olive green for mobile top URL background */
+  }
+}
