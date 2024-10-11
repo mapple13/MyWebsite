@@ -6,6 +6,6 @@
 /* Mobile-specific changes */
 @media (max-width: 768px) {
   .top-bar {
-    background-color: #556B2F; /* URL background color for mobile */
+    background-color: #003366; /* URL background color for mobile */
   }
 }
