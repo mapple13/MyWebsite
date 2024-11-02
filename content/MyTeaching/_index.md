@@ -29,7 +29,7 @@ projects: []
 ---
 
 ## Econometric Application in AgBusiness and Applied Econ
-Lab Instructor. AEDE 4002.01 Spring 2023 
+Lab Instructor. The Ohio State University. AEDE 4002.01 Spring 2023 
 <!-- **[[Syllabus]](https://jareonline.org/articles/upgrading-food-product-quality-evaluating-the-impact-of-competition-and-non-tariff-measures/)** -->
 
 
@@ -39,7 +39,17 @@ Lab Instructor. AEDE 4002.01 Spring 2023
 This course provides a comprehensive introduction to econometrics with a focus on its application in agribusiness and applied economics. Students will gain a deeper understanding of economic statistics and develop practical skills using MS Excel for econometric analysis. Key topics include ordinary least squares (OLS) estimation, its advantages and limitations, as well as alternative methods when the classical linear regression assumptions are violated.
 {{< /detail-tag >}}
 </span>
-
 <br>
 
 ---
+
+
+## Managerial Records and Analysis
+Teaching Assistant. The Ohio State University. AEDECON 2105. Fall 2020.
+
+## Macroeconomics
+Teaching Assistant. Seoul National University. Fall 2017.
+
+
+---
+

@@ -26,18 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
----
 
-## Publications
- Jihyun Eum, Ian Sheldon, Hyeseon Shin, Stanley Thompson (2024). **Upgrading Food Product Quality: Evaluating the Impact of Competition and Non-Tariff Measures**. _Journal of Agricultural and Resource Economics_. **[[Link]](https://jareonline.org/articles/upgrading-food-product-quality-evaluating-the-impact-of-competition-and-non-tariff-measures/)**
-
-<span style="font-size: smaller;">
-{{< detail-tag "Abstract" >}}
-In this paper, the effect of non-tariff measures (NTMs) on upgrading of food product quality is analyzed. Based on a multi-sector Schumpeterian model, and given threat of entry, compliance costs, and monopoly profits, NTMs are predicted to have heterogeneous effects on quality upgrading. Using disaggregated data for 14 European Union (EU) countries across 18 food industries for the period 2008-2019, NTM enforcement is found to deter quality upgrading for products distant from the quality frontier due to compliance costs. Conversely, NTM enforcement stimulates quality upgrading for products close to the quality frontier, given an increased probability of capturing monopoly profits.
-{{< /detail-tag >}}
-</span>
-
-<br>
 
 ---
 
@@ -70,10 +59,21 @@ We build a dynamic multi-region model of climate and economy with emission permi
 </span>
 <br>
 
+<hr>
+
+## Publications
+ Jihyun Eum, Ian Sheldon, Hyeseon Shin, Stanley Thompson (2024). **Upgrading Food Product Quality: Evaluating the Impact of Competition and Non-Tariff Measures**. _Journal of Agricultural and Resource Economics_. **[[Link]](https://jareonline.org/articles/upgrading-food-product-quality-evaluating-the-impact-of-competition-and-non-tariff-measures/)**
+
+<span style="font-size: smaller;">
+{{< detail-tag "Abstract" >}}
+In this paper, the effect of non-tariff measures (NTMs) on upgrading of food product quality is analyzed. Based on a multi-sector Schumpeterian model, and given threat of entry, compliance costs, and monopoly profits, NTMs are predicted to have heterogeneous effects on quality upgrading. Using disaggregated data for 14 European Union (EU) countries across 18 food industries for the period 2008-2019, NTM enforcement is found to deter quality upgrading for products distant from the quality frontier due to compliance costs. Conversely, NTM enforcement stimulates quality upgrading for products close to the quality frontier, given an increased probability of capturing monopoly profits.
+{{< /detail-tag >}}
+</span>
+<br>
 
 
 
----
+<hr>
 
 ## Other Articles
 Hyeseon Shin, Raphael Gomes de Silva, Valentyn Litvinov, Saera Oh, Anh Phuoc Thien Nguyen (2024). **The Future of (Ag-) Trade and Trade Governance in Times of Economic Sanctions and Declining Multilateralism**. _IATRC Trade Policy Brief_. **[[PDF]](/uploads/article_Shin_et_al_2024.pdf)**
