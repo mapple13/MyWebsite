@@ -47,7 +47,7 @@ Climate change can affect agricultural production through land productivity and 
 
 Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. **[[Preprint]](https://arxiv.org/pdf/2312.15563)**.  
 
-<small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum*</small>
+<small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
 <!-- ![Description of the figure](/myfigures/cai_et_al_2024_fig.png) -->
 
