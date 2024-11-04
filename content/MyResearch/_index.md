@@ -33,9 +33,9 @@ projects: []
 
 ## Working Papers
 
-[**Job Market Paper**] Hyeseon Shin. **[Agriculture, Trade, Migration and Climate Change]().** Draft available upon request. 
+[**Job Market Paper**] Hyeseon Shin. **[Agriculture, Trade, Migration and Climate Change](/uploads/JMP_HyeseonShin.pdf).**  **[[Draft]](/uploads/JMP_HyeseonShin.pdf)**
 
-<small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small>
+<small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small> 
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
