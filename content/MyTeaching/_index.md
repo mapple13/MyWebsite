@@ -34,14 +34,14 @@ Lab Instructor. The Ohio State University. AEDE 4002.01 Spring 2023
 
 
 
-<span style="font-size: smaller;">
+<!-- <span style="font-size: smaller;">
 {{< detail-tag "Course Description" >}}
 This course provides a comprehensive introduction to econometrics with a focus on its application in agribusiness and applied economics. Students will gain a deeper understanding of economic statistics and develop practical skills using MS Excel for econometric analysis. Key topics include ordinary least squares (OLS) estimation, its advantages and limitations, as well as alternative methods when the classical linear regression assumptions are violated.
 {{< /detail-tag >}}
 </span>
 <br>
 
----
+--- -->
 
 
 ## Managerial Records and Analysis
@@ -50,6 +50,6 @@ Teaching Assistant. The Ohio State University. AEDECON 2105. Fall 2020.
 ## Macroeconomics
 Teaching Assistant. Seoul National University. Fall 2017.
 
-
----
+<!-- 
+--- -->
 
