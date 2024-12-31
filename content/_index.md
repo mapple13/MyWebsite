@@ -44,6 +44,21 @@ sections:
 #==================
 # Background photo
 #==================
+  # - block: hero
+  #   demo: false  # Ensure this section is displayed on your actual site
+  #   content:
+  #     title: ''
+  #     text: |-
+  #       <br><br><br>  
+  #   design:
+  #     background:
+  #       image:
+  #         filename: ship3.jpg  # Correct path to your image
+  #         focul_point: center
+  #         image_size: cover #  Options are `cover` (default), `contain`, or `actual` size.
+  #         image_position: left # Options include `left`, `center` (default), or `right`.
+  #   height: 200vh  # Increase height for more image visibility
+  #   width: 100%
 
   - block: hero
     demo: false  # Ensure this section is displayed on your actual site
@@ -55,11 +70,8 @@ sections:
       background:
         image:
           filename: background_ship.jpg  # Correct path to your image
-          focul_point: center
-          image_size: actual #  Options are `cover` (default), `contain`, or `actual` size.
-          image_position: center # Options include `left`, `center` (default), or `right`.
     height: 100vh  # Increase height for more image visibility
-    width: 200%
+    width: 100%
 
 
   - block: about.biography

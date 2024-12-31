@@ -26,25 +26,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-  - International Trade
-  - Agricultural Economics
-  - Environmental Economics
-  - Climate Change
+# # Interests to show in About widget
+# interests:
+#   - International Trade
+#   - Agricultural Economics
+#   - Environmental Economics
+#   - Climate Change
 
-# Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. candidate, Agricultural, Environmental, and Development Economics
-      institution: The Ohio State University
-      year: current
-    - course: M.A. in Economics, Agricultural and Resource Economics Major 
-      institution: Seoul National University 
-      year: 2019
-    - course: B.A. in Economics, Agricultural and Resource Economics Major
-      institution: Seoul National University 
-      year: 2017
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: Ph.D. candidate, Agricultural, Environmental, and Development Economics
+#       institution: The Ohio State University
+#       year: current
+#     - course: M.A. in Economics, Agricultural and Resource Economics Major 
+#       institution: Seoul National University 
+#       year: 2019
+#     - course: B.A. in Economics, Agricultural and Resource Economics Major
+#       institution: Seoul National University 
+#       year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,14 +121,17 @@ highlight_name: true
 ---
 
 {style="text-align: justify;"}
-Hello! I am a Ph.D. candidate in Agricultural, Environmental, and Development Economics at The Ohio State University. 
+Hello! I am a Ph.D. candidate in [Agricultural, Environmental, and Development Economics](https://aede.osu.edu/) at The Ohio State University. 
 
-How does climate change affect the global food production? What is the role of trade and migration policies? How can we design policies to mitigate the impacts of climate change? In aswering these directly policy-relevant questions, I draw on methods in **international trade, spatial economics**, **agricultural** and **environmental economics**. 
+My research lies at the intersection of **international trade**, **environmental** and **agricultural economics**. I am interested in studying trade and environmental policies to help mitigate the impact of climate change.
+<!-- I am largely interested topics related to answering the following question: How can we design trade and environmental policies to mitigate the impact of climate change?  -->
+
+How does **climate change** affect the **global crop production** and **structural transformation** of the labor market? My [**job market paper**](/uploads/JMP_HyeseonShin.pdf) analyzes the impact of climate change on agricultural production and labor market using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. 
 
 
-My [**job market paper**]() analyzes the impact of **climate change on agricultural production** using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. Recently, I have been also working on topics such as dynamic emission permit prices under **global emission trading system (ETS)**, the non-monotonic effects of **non-tariff measures (NTMs)** on food product quality upgrading. 
+What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other paper addresses this question by using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
 
+**I am on 2024-2025 job market.** 
 
-**I will be on 2024-2025 job market.** 
-
+Please feel contact me if you have any questions or comments. 
 
