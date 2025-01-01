@@ -39,11 +39,26 @@ sections:
   #     image:
   #       filename: "myfigures/background_ship.jpg"      
 
-
+ 
 
 #==================
 # Background photo
 #==================
+  # - block: 
+  #   demo: false  # Ensure this section is displayed on your actual site
+  #   content:
+  #     # title: ''
+  #     text: |-
+  #       <br><br><br>  
+  #   design:
+  #     background:
+  #       image:
+  #         filename: background_ship.jpg  # Correct path to your image
+  #         size: actual
+  #         position: right
+    # height: 200vh  # Increase height for more image visibility
+    # width: 100%
+
   # - block: hero
   #   demo: false  # Ensure this section is displayed on your actual site
   #   content:
@@ -53,25 +68,12 @@ sections:
   #   design:
   #     background:
   #       image:
-  #         filename: ship3.jpg  # Correct path to your image
-  #         focul_point: center
-  #         image_size: cover #  Options are `cover` (default), `contain`, or `actual` size.
-  #         image_position: left # Options include `left`, `center` (default), or `right`.
-  #   height: 200vh  # Increase height for more image visibility
+  #         filename: background_ship.jpg  # Correct path to your image
+  #         size: actual  # Ensures the image fully covers the container
+  #       #   position: top left  # Aligns the image to the top-left corner
+  #       #   repeat: no-repeat  # Prevents the image from repeating        
+  #   height: 100vh  # Increase height for more image visibility
   #   width: 100%
-
-  - block: hero
-    demo: false  # Ensure this section is displayed on your actual site
-    content:
-      title: ''
-      text: |-
-        <br><br><br>  
-    design:
-      background:
-        image:
-          filename: background_ship.jpg  # Correct path to your image
-    height: 100vh  # Increase height for more image visibility
-    width: 100%
 
 
   - block: about.biography
