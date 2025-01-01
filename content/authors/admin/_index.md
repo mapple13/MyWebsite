@@ -128,10 +128,9 @@ My research lies at the intersection of **international trade**, **environmental
 
 How does **climate change** affect the **global crop production** and **structural transformation** of the labor market? My [**job market paper**](/uploads/JMP_HyeseonShin.pdf) analyzes the impact of climate change on agricultural production and labor market using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. 
 
-
-What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other paper addresses this question by using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
+What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other paper addresses this question using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
 
 **I am on 2024-2025 job market.** 
 
-Please feel contact me if you have any questions or comments. 
+Please feel free to contact me if you have any questions or comments. 
 
