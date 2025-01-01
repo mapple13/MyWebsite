@@ -33,19 +33,21 @@ projects: []
 
 ## Working Papers
 
-[**Job Market Paper**] Hyeseon Shin. **[Agriculture, Trade, Migration and Climate Change](/uploads/JMP_HyeseonShin.pdf).**  **[[Draft]](/uploads/JMP_HyeseonShin.pdf)** 
+[**Job Market Paper**] **[Agriculture, Trade, Migration and Climate Change](/uploads/JMP_HyeseonShin.pdf).** (solo-author) **[[Draft]](/uploads/JMP_HyeseonShin.pdf)** 
 
 <small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small> 
 
-<span style="font-size: smaller;">
+<small>Climate change can affect agricultural production through land productivity and multicropping capacities, with effects largely heterogeneous across countries and crops. Given the agricultural sector’s substantial contribution to both income and employment in many developing economies, evolving agro-climatic conditions have the potential to reshape labor reallocation as well as agricultural production. I build and quantify a dynamic spatial general equilibrium model incorporating farmers’ optimal crop choices, international trade, and forward-looking household migration. Findings indicate that under RCP 8.5, the overall global welfare effect on agricultural workers is modest, yet welfare effects vary substantially across countries. Results also highlight that the general equilibrium effects of labor mobility are nontrivial, and domestic structural transformation, in particular, plays a crucial role in mitigating the adverse effects of climate change.</small> 
+
+<!-- <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
 Climate change can affect agricultural production through land productivity and multicropping capacities, with effects largely heterogeneous across countries and crops. Given the agricultural sector’s substantial contribution to both income and employment in many developing economies, evolving agro-climatic conditions have the potential to reshape labor reallocation as well as agricultural production. I build and quantify a dynamic spatial general equilibrium model incorporating farmers’ optimal crop choices, international trade, and forward-looking household migration. Findings indicate that under RCP 8.5, the overall global welfare effect on agricultural workers is modest, yet welfare effects vary substantially across countries. Results also highlight that the general equilibrium effects of labor mobility are nontrivial, and domestic structural transformation, in particular, plays a crucial role in mitigating the adverse effects of climate change.
 {{< /detail-tag >}}
-</span>
+</span> -->
 
 <br>
 
-Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. **[[Draft]](/uploads/CaiMalikShin_20241229.pdf)**. (updated version 2024 Dec)
+**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[Draft]](/uploads/CaiMalikShin_20241229.pdf)**  (updated version 2024 Dec)
 
 <small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
@@ -62,7 +64,7 @@ We build a dynamic multi-region model of climate and economy with emission permi
 <hr>
 
 ## Publications
- Jihyun Eum, Ian Sheldon, Hyeseon Shin, Stanley Thompson (2024). **Upgrading Food Product Quality: Evaluating the Impact of Competition and Non-Tariff Measures**. _Journal of Agricultural and Resource Economics_. **[[Link]](https://jareonline.org/articles/upgrading-food-product-quality-evaluating-the-impact-of-competition-and-non-tariff-measures/)**
+ Jihyun Eum, Ian Sheldon, **Hyeseon Shin**, Stanley Thompson (2024). **Upgrading Food Product Quality: Evaluating the Impact of Competition and Non-Tariff Measures**. _Journal of Agricultural and Resource Economics_. **[[Link]](https://jareonline.org/articles/upgrading-food-product-quality-evaluating-the-impact-of-competition-and-non-tariff-measures/)**
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
@@ -76,7 +78,7 @@ In this paper, the effect of non-tariff measures (NTMs) on upgrading of food pro
 <hr>
 
 ## Other Articles
-Hyeseon Shin, Raphael Gomes de Silva, Valentyn Litvinov, Saera Oh, Anh Phuoc Thien Nguyen (2024). **The Future of (Ag-) Trade and Trade Governance in Times of Economic Sanctions and Declining Multilateralism**. _IATRC Trade Policy Brief_. **[[PDF]](/uploads/article_Shin_et_al_2024.pdf)**
+**Hyeseon Shin**, Raphael Gomes de Silva, Valentyn Litvinov, Saera Oh, Anh Phuoc Thien Nguyen (2024). **The Future of (Ag-) Trade and Trade Governance in Times of Economic Sanctions and Declining Multilateralism**. _IATRC Trade Policy Brief_. **[[PDF]](/uploads/article_Shin_et_al_2024.pdf)**
 
 
 <br>

@@ -29,9 +29,9 @@ main:
   # - name: Life
   #   url: '/Life'
   #   weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 70
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 70
 
 
 
