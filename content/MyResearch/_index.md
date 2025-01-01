@@ -33,7 +33,7 @@ projects: []
 
 ## Working Papers
 
-[**Job Market Paper**] Hyeseon Shin. **[Agriculture, Trade, Migration and Climate Change](/uploads/JMP_HyeseonShin.pdf).**  **[[Draft]](/uploads/JMP_HyeseonShin.pdf)**
+[**Job Market Paper**] Hyeseon Shin. **[Agriculture, Trade, Migration and Climate Change](/uploads/JMP_HyeseonShin.pdf).**  **[[Draft]](/uploads/JMP_HyeseonShin.pdf)** 
 
 <small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small> 
 
@@ -45,7 +45,7 @@ Climate change can affect agricultural production through land productivity and 
 
 <br>
 
-Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. **[[Draft]](https://arxiv.org/pdf/2312.15563)**.  
+Yongyang Cai, Khyati Malik, Hyeseon Shin. **Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. **[[Draft]](/uploads/CaiMalikShin_20241229.pdf)**. (updated version 2024 Dec)
 
 <small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
