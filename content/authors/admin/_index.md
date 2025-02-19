@@ -126,7 +126,7 @@ Hello! I am a Ph.D. candidate in [Agricultural, Environmental, and Development E
 My research lies at the intersection of **international trade**, **environmental** and **agricultural economics**. I am interested in studying trade and environmental policies to help mitigate the impact of climate change.
 <!-- I am largely interested topics related to answering the following question: How can we design trade and environmental policies to mitigate the impact of climate change?  -->
 
-How does **climate change** affect the **global crop production** and **structural transformation** of the labor market? My [**job market paper**](/uploads/JMP_HyeseonShin.pdf) analyzes the impact of climate change on agricultural production and labor market using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. 
+How does **climate change** affect the **global crop production** and **structural transformation** of the labor market? My [**job market paper**](/uploads/Shin_20250219.pdf) analyzes the impact of climate change on agricultural production and labor market using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. 
 
 What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other [**paper**](https://arxiv.org/pdf/2312.15563) addresses this question using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
 
