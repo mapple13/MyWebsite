@@ -36,7 +36,7 @@ projects: []
 <hr>
 
 
-[**Job Market Paper**] **[Agriculture, Trade, Migration and Climate Change](/uploads/Shin_20250219.pdf).** (solo-author) **[[Draft]](/uploads/Shin_20250219.pdf)** -*Submitted*.
+[**Job Market Paper**] **[Agriculture, Trade, Migration and Climate Change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011).** (solo-author) **[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011)** -*Submitted*. <small>(First draft: Nov 10, 2024 / Current Version: Feb 25 2025)</small> 
 
 <small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small> 
 
@@ -50,7 +50,7 @@ Climate change affects agricultural production through land productivity and mul
 
 <br>
 
-**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[Draft]](https://arxiv.org/pdf/2312.15563)**  -*Submitted*.
+**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[arXiv]](https://arxiv.org/pdf/2312.15563)**  -*Submitted*.
 
 <small>*Presentations: LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
