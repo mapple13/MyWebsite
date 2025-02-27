@@ -35,8 +35,7 @@ projects: []
 <hr>
 
 
-[**Job Market Paper**] **[Agriculture, Trade, Migration and Climate Change]()** (solo-author) **[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011)** **[[PDF]](/uploads/JMP_HyeseonShin.pdf)**  
--*Submitted*. <small>(First draft: Nov 10, 2024 / Current Version: Feb 25 2025)</small> 
+[**Job Market Paper**] **[Agriculture, Trade, Migration and Climate Change]()** (solo-author) **[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011)** **[[PDF]](/uploads/JMP_HyeseonShin.pdf)** -*Submitted*. <small>(First draft: Nov 10, 2024 / Current Version: Feb 25 2025)</small> 
 
 <small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small> 
 
