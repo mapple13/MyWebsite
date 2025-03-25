@@ -130,7 +130,7 @@ How does **climate change** affect the **global crop production** and **structur
 
 What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other [**paper**](https://arxiv.org/pdf/2312.15563) addresses this question using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
 
-**I am on 2024-2025 job market.** 
+<!-- I will join [**Korea Institute of Public Finance (KIPF)**](https://www.kipf.re.kr/kor/) as a Research Fellow -->
 
 Please feel free to contact me if you have any questions or comments. 
 
