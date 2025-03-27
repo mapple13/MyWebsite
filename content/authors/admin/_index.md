@@ -126,11 +126,11 @@ Hello! I am a Ph.D. candidate in [Agricultural, Environmental, and Development E
 My research lies at the intersection of **international trade**, **environmental** and **agricultural economics**. 
 <!-- I am largely interested topics related to answering the following question: How can we design trade and environmental policies to mitigate the impact of climate change?  -->
 
-How does **climate change** affect the **global crop production** and **structural transformation** of the labor market? My [**job market paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011) analyzes the impact of climate change on agricultural production and labor market using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. 
+* How does **climate change** affect the **global crop production** and **structural transformation** of the labor market? My [**job market paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011) analyzes the impact of climate change on agricultural production and labor market using a dynamic spatial general equilibrium model, incorporating optimal crop choice, international trade, and forward-looking labor mobility. 
 
-What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other [**paper**](https://arxiv.org/pdf/2312.15563) addresses this question using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
+* What would the **global carbon price** and regional **social cost of carbon** be under a **global emissions trading system (ETS)**? My other [**paper**](https://arxiv.org/pdf/2312.15563) addresses this question using a dynamic multi-region integrated assessment model (IAM) with the global ETS under noncooperation.
 
-<!-- I will join [**Korea Institute of Public Finance (KIPF)**](https://www.kipf.re.kr/kor/) as a Research Fellow -->
+I will join [**Korea Institute of Public Finance (KIPF)**](https://www.kipf.re.kr/kor/) as a **Research Fellow** this summer. 
 
 Please feel free to contact me if you have any questions or comments. 
 
