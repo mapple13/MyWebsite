@@ -84,6 +84,15 @@ content: "\f501\00a0"
   text-align: justify;
 }
 
+.myblock-container {
+  max-width: 48rem;  /* same as Tailwind's max-w-xl = 36rem */
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional padding or other styles */
+  padding: 1rem;
+  text-align: justify;
+}
+
 .docs-toc {
   text-align: justify;
 }
@@ -114,21 +123,21 @@ content: "\f501\00a0"
   /* Change article title formatting without changing normal h1 headings */
   .pt-3 h1 {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.2rem;
   }
 
   /* The opposite; change post h1 without changing page title formatting */
-  .article-style h1:after {
-    content:' ';
-    display:block;
-    border:.07rem solid #d0d0d0;
-    border-radius:4px;
-    -webkit-border-radius:2px;
-    -moz-border-radius:2px;
-    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
-    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
-    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
-  }
+  // .article-style h1:after {
+  //   content:' ';
+  //   display:block;
+  //   border:.07rem solid #d0d0d0;
+  //   border-radius:4px;
+  //   -webkit-border-radius:2px;
+  //   -moz-border-radius:2px;
+  //   box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  //   -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  //   -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  // }
 
   .page-subtitle {
     font-size: 1rem;
@@ -155,12 +164,36 @@ h2, h3 {
 }
 
 .docs-article-container h1 {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 
 .article-style h1 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
+
+.article p,
+.article-content p,
+.post-content p,
+.content p,
+.article li,
+.article-content li,
+.post-content li,
+.content li {
+  font-size: 0.8rem;
+}
+
+
+/* list */
+.article-content ul,
+.content ul {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.article-content ul {
+  list-style-type: "-";
+}
+
 
 .btn-copy-code {
   color: black;

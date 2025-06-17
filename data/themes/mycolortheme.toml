@@ -6,12 +6,12 @@ name = "mycolortheme"
   primary = "#EF525B"
 
   # Menu
-  menu_primary = "#003366"
-  menu_text = "#fff"
+  menu_primary = "#fff"
+  menu_text = "#000000"
   menu_text_active = "#FFC300"
-  menu_title = "#fff"
+  menu_title = "#000000"
 
   # Backgrounds
-  background = "#FFFDF6"
-  home_section_odd = "#FFFDF6"
+  background = "#fff"
+  home_section_odd = "#fff"
   home_section_even = "#e0deda"
