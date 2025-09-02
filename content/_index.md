@@ -18,7 +18,7 @@ sections:
       email: "hsshin@sogang.ac.kr"
       avatar: "/authors/admin/avatar.jpg"
       linkedin: "https://www.linkedin.com/in/hyeseon-shin-7345a398/"
-      bio: "Hello! I am an eonomist studying how human livelihoods and policies interact with climate and ecosystems, focusing on the agricultural and environmental dimensions of the economy. I am interested in using tools from **international trade, spatial economics, agricultural economics,** and **environmental economics**. <br><br> I received my Ph.D. in [Agricultural, Environmental, and Development Economics](https://aede.osu.edu/) (AEDE) from [The Ohio State University](https://www.osu.edu/) in 2025.  <br><br> I am an Assistant Professor at the [Department of Economics](https://econ.sogang.ac.kr/econ/index_new.html) at [Sogang University](https://www.sogang.ac.kr/en/home). "
+      bio: "Hello! I am an eonomist studying how human livelihoods and policies interact with climate and ecosystems, focusing on the agricultural and environmental dimensions of the economy. I am interested in using tools from **international trade, spatial economics, agricultural economics,** and **environmental economics**. <br><br> I received my Ph.D. in [Agricultural, Environmental, and Development Economics](https://aede.osu.edu/) (AEDE) from [The Ohio State University](https://www.osu.edu/) in 2025.  <br><br> I am an Assistant Professor in the [Department of Economics](https://econ.sogang.ac.kr/econ/index_new.html) at [Sogang University](https://www.sogang.ac.kr/en/home). "
 
 
 #########################
