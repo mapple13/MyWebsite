@@ -479,3 +479,15 @@ h2, h3 {
 }
 }
 
+.highlight {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  padding: 0em 0em;   /* reduce vertical padding */
+  max-width: 780px;     /* limit max width */
+  margin: 0 auto;       /* center horizontally */
+  // overflow-x: auto;
+  // font-family: monospace;
+  // white-space: pre-wrap; /* wrap long lines */
+  // word-break: break-word; /* break long words if needed */
+}
+

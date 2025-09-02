@@ -49,7 +49,7 @@ Climate change affects agricultural production through land productivity and mul
 
 <br>
 
-**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20250621.pdf)** <small>-*Updated: June 21, 2025*.</small>
+**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20250621.pdf)** <small>-*Updated: June 21, 2025*.</small> 
 
 <small>*Presentations: Seoul National Unviersity, LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
@@ -59,6 +59,29 @@ Climate change affects agricultural production through land productivity and mul
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
 We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions of the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and later strengthened under the Glasgow Pact. Our model shows that the emission permit price reaches $923 per ton of carbon by 2050, and global average temperature is expected to reach 1.7 degrees Celsius above the pre-industrial level by the end of this century. We demonstrate, both theoretically and numerically, that the regional social cost of carbon is equal to the difference between the regional marginal abatement cost and the permit price. We find significant heterogeneity in the regional social cost of carbon, and that global emission trading has little impact on this measure. We also find that when the regional emission caps are lax, and therefore non-binding, a global emission trading system may lead to higher emissions under noncooperation, underscoring the necessity of maintaining stringent global emission caps to ensure efficient functioning of the emission trading system.
+{{< /detail-tag >}}
+</span>
+<br>
+
+
+## Work in Progress
+
+<hr>
+
+**Trade Policy, Crop Choice, and Water Stress: Evidence from Mexican Agriculture**. (with Saera Oh)
+
+<span style="font-size: smaller;">
+{{< detail-tag "Abstract" >}}
+<!-- International trade can influence the crop choices of local farmers, with important implications for water use, as some crops are significantly more water-intensive than others. Yet, trade patterns do not always align with comparative advantages in water availability—water-scarce countries may continue to export water-intensive crops, potentially worsening local water shortages. This study investigates how trade policy shapes crop selection in Mexican agriculture and evaluates its effects on local water resources. -->
+{{< /detail-tag >}}
+</span>
+<br>
+
+**Dynamic Land Use, Emissions, and Climate Change** (with Karnpanich Tunskul and Yongyang Cai)
+
+<span style="font-size: smaller;">
+{{< detail-tag "Abstract" >}}
+<!-- We build a dynamic model of land use changes,  -->
 {{< /detail-tag >}}
 </span>
 <br>
