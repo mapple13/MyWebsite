@@ -49,7 +49,7 @@ Climate change affects agricultural production through land productivity and mul
 
 <br>
 
-**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20251104.pdf)** <small>-*Current Version: Nov 4, 2025*.</small> 
+**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20251118.pdf)** <small>-*Current Version: Nov 18, 2025*.</small> 
 
 <small>*Presentations: Korea-Japan International Trade Workshop, Seoul National Unviersity, LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
@@ -58,13 +58,13 @@ Climate change affects agricultural production through land productivity and mul
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
-We build a dynamic multi-region model of climate and economy with emission permit trading among 12 aggregated regions of the world. We solve for the dynamic Nash equilibrium under noncooperation, wherein each region adheres to the emission cap constraints following commitments that were first outlined in the 2015 Paris Agreement and later strengthened under the Glasgow Pact. Our model shows that the emission permit price reaches $923 per ton of carbon by 2050, and global average temperature is expected to reach 1.7 degrees Celsius above the pre-industrial level by the end of this century. We demonstrate, both theoretically and numerically, that the regional social cost of carbon is equal to the difference between the regional marginal abatement cost and the permit price, illustrating complementarity between emission trading system and carbon tax. That is, heterogeneity in social cost of carbon across regions implies that a uniform global carbon price alone may not achieve regionally optimal carbon pricing. We find significant heterogeneity in the regional social cost of carbon, and that global emission trading has little impact on this measure. We also find that when the regional emission caps are lax, and therefore non-binding, a global emission trading system may lead to higher emissions under noncooperation, underscoring the necessity of maintaining stringent global emission caps to ensure efficient functioning of the emission trading system. Finally, simulations of a partial emission trading system, where one major region opts out, highlight pronounced free-rider incentives and the persistent challenge of sustaining global cooperation on carbon mitigation.
+We develop a dynamic multi-region climate–economy model with emissions trading and solve for the dynamic Nash equilibrium under noncooperation, where each region follows Paris Agreement–based emissions caps. The permit price reaches $923 per ton of carbon by 2050, and global temperature rises to 1.7°C above pre-industrial levels by 2100. The regional social cost of carbon equals the difference between regional marginal abatement cost and the permit price, highlighting complementarity between carbon taxes and trading. We find substantial heterogeneity in regional social costs of carbon, show that lax caps can raise emissions, and demonstrate strong free-rider incentives under partial participation.
 {{< /detail-tag >}}
 </span>
 <br>
 
 
-## Work in Progress
+## Selected Work in Progress
 
 <hr>
 
