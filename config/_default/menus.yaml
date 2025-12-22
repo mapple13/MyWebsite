@@ -19,6 +19,10 @@ main:
     # url: '/research'
     url: '/MyResearch'
     weight: 30
+
+  - name: Teaching
+    url: '/MyTeaching'
+    weight: 40
   #   # url: '/research'
   #   url: '/MyTeaching'
   #   weight: 40
