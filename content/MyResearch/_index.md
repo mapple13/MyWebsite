@@ -49,7 +49,7 @@ Climate change affects agricultural production through land productivity and mul
 
 <br>
 
-**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20251118.pdf)** <small>-*Current Version: Nov 18, 2025*.</small> 
+**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20251118.pdf)** <small>-*Current Version: Nov 18, 2025 (submitted)*.</small> 
 
 <small>*Presentations: Korea-Japan International Trade Workshop, Seoul National Unviersity, LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
