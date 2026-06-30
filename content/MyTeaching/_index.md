@@ -28,6 +28,35 @@ image:
 projects: []
 ---
 
+
+
+
+## Courses
+<hr>
+
+<span style="font-size: smaller;">
+{{< detail-tag "**(UG) Principles of Economics 1 (ECO2001)**" >}}
+This course introduces the fundamental concepts and theoretical frameworks of economics to help students understand everyday life and social phenomena. Focusing on the core topics of microeconomics—including supply and demand, market equilibrium, elasticity, efficiency and welfare, consumer and producer behavior, and market structures—the course provides a framework for analyzing how markets operate and how economic agents make decisions.
+{{< /detail-tag >}}
+</span>
+
+<span style="font-size: smaller;">
+{{< detail-tag "**(UG) Environmental Economics (ECO3005)**" >}}
+This course introduces key concepts, theoretical frameworks, and empirical methods in environmental economics. We will explore the causes and consequences of market failures related to environmental issues, examine policy instruments designed to correct these failures, analyze the optimal management of natural resources, and study economic approaches of valuing non-market goods. Students are expected to actively engage with course readings, apply economic theory to real-world environmental problems, critically evaluate policy agendas, and develop basic empirical skills for economic analysis in this field.
+{{< /detail-tag >}}
+</span>
+
+<span style="font-size: smaller;">
+{{< detail-tag "**(GR) Climate and Environmental Economics (ECOG121/ECO5121)**" >}}
+The goal of this course is to provide students with a rigorous introduction to climate change and environmental economics. We will explore core theoretical concepts underlying major climate and environmental challenges, quantitative modeling frameworks for policy analysis, and contemporary policy applications. With particular emphasis on quantitative trade and spatial model frameworks, the course introduces the analytical tools that have become central to recent research on climate and environmental policy analysis.
+{{< /detail-tag >}}
+</span>
+
+
+
+<br>
+
+
 ## Making an Appointment with Me
 <hr>
 
@@ -109,7 +138,6 @@ Teaching Assistant. Seoul National University. Fall 2017. -->
 </span>
 
 
-<br>
 
 
 <span style="font-size: smaller;">
@@ -139,7 +167,6 @@ Teaching Assistant. Seoul National University. Fall 2017. -->
 </span>
 
 
-<br>
 
 
 <span style="font-size: smaller;">

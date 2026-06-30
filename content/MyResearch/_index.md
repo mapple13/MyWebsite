@@ -35,8 +35,7 @@ projects: []
 <hr>
 
 
-[**Job Market Paper**] **[Agriculture, Trade, Migration, and Climate Change]()**  **[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011)** **[[PDF]](/uploads/JMP_HyeseonShin.pdf)** <br> <small>(First draft: Nov 10, 2024 / Current Version: April 17 2025) - going through updates!</small> 
-
+[**Job Market Paper**] **[Agriculture, Trade, Migration, and Climate Change]()**  **[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154011)** **[[PDF]](/uploads/JMP_HyeseonShin.pdf)** <br> 
 <small>*Presentations: Camp Resources XXX, AAEA Annual Meeting, AAEA-KREI Workshop, Summer School in International Economics by the Journal of International Economics, MEA Annual Meeting, MSU AFRE Brown Bag Seminar, IATRC Annual Meeting, Columbia University IPWSD*</small> 
 
 <!-- <small>Climate change affects agricultural production through land productivity and multicropping capacities. Given agriculture’s substantial contribution to both income and employment in developing economies, evolving agro-climatic conditions can reshape labor reallocation and agricultural production. I develop a dynamic spatial general equilibrium model incorporating farmers’ optimal crop choices, international trade, and forward-looking migration. Under RCP 8.5, global welfare effects on agricultural workers are modest but vary significantly across countries. Results highlight that the general equilibrium effects of labor mobility are nontrivial, and domestic structural transformation can play a crucial role in mitigating the adverse impacts of climate change. </small>  -->
@@ -49,8 +48,7 @@ Climate change affects agricultural production through land productivity and mul
 
 <br>
 
-**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_20251118.pdf)** <small>-*Current Version: Nov 18, 2025 (submitted)*.</small> 
-
+**Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation**. <br> (with Yongyang Cai and Khyati Malik) **[[PDF]](/uploads/CaiMalikShin_202606.pdf)** <small>-*Draft Updated (2026/06)*</small> <br>
 <small>*Presentations: Korea-Japan International Trade Workshop, Seoul National Unviersity, LSE Environment Camp, Heartland Workshop, OSU Interdisciplinary Research Fall Forum: Computational Approaches for a Just and Sustainable World*</small>
 
 <!-- ![Description of the figure](/myfigures/cai_et_al_2024_fig.png) -->
@@ -58,7 +56,7 @@ Climate change affects agricultural production through land productivity and mul
 
 <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
-We develop a dynamic multi-region climate–economy model with emissions trading and solve for the dynamic Nash equilibrium under noncooperation, where each region follows Paris Agreement–based emissions caps. The permit price reaches $923 per ton of carbon by 2050, and global temperature rises to 1.7°C above pre-industrial levels by 2100. The regional social cost of carbon equals the difference between regional marginal abatement cost and the permit price, highlighting complementarity between carbon taxes and trading. We find substantial heterogeneity in regional social costs of carbon, show that lax caps can raise emissions, and demonstrate strong free-rider incentives under partial participation.
+We develop a dynamic multi-region climate–economy model with emissions trading and solve for the dynamic Nash equilibrium under noncooperation, where regions follow Paris Agreement–based emissions caps. We establish analytically, and confirm numerically, that the regional social cost of carbon equals the difference between the regional marginal abatement cost and the equilibrium permit price, a result that reveals a complementarity between carbon taxes and emission trading. The permit price reaches $923 per ton of carbon by 2050, and global temperature rises to 1.7°C above pre-industrial levels by 2100. We find substantial heterogeneity in regional social cost of carbon, show that lax caps can raise emissions, and demonstrate strong free-rider incentives under partial participation.
 {{< /detail-tag >}}
 </span>
 <br>
