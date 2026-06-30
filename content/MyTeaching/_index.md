@@ -47,7 +47,7 @@ This course introduces key concepts, theoretical frameworks, and empirical metho
 </span>
 
 <span style="font-size: smaller;">
-{{< detail-tag "**(GR) Climate and Environmental Economics (ECOG121/ECO5121)**" >}}
+{{< detail-tag "**(GR) Climate and Environmental Economics (ECOG121 / ECO5121)**" >}}
 The goal of this course is to provide students with a rigorous introduction to climate change and environmental economics. We will explore core theoretical concepts underlying major climate and environmental challenges, quantitative modeling frameworks for policy analysis, and contemporary policy applications. With particular emphasis on quantitative trade and spatial model frameworks, the course introduces the analytical tools that have become central to recent research on climate and environmental policy analysis.
 {{< /detail-tag >}}
 </span>
