@@ -68,22 +68,27 @@ We develop a dynamic multi-region climate–economy model with emissions trading
 
 **Trade Policy, Crop Choice, and Water Stress: Evidence from Mexican Agriculture**. (with Saera Oh)
 
-<span style="font-size: smaller;">
+<!-- <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
 International trade can influence the crop choices of local farmers, with important implications for water use, as some crops are significantly more water-intensive than others. This study investigates how trade policy shapes crop selection in Mexican agriculture and evaluates its impacts on local water resources.
 {{< /detail-tag >}}
 </span>
-<br>
+<br> -->
 
 **Dynamic Land Use, Emissions, and Climate Change** (with Karnpanich Tunskul and Yongyang Cai)
 
-<span style="font-size: smaller;">
+<!-- <span style="font-size: smaller;">
 {{< detail-tag "Abstract" >}}
 This paper develops a model of dynamic global land use to examine the implications for land emissions and climate change.
 {{< /detail-tag >}}
 </span>
-<br>
+<br> -->
 
+**Climate Policy at the Border: Implications of CBAM for Fertilizer and Agriculture** (with Ruobing Qin and Ian Sheldon)
+
+**Firm Competitiveness and Carbon Leakage under Climate Policy: Myth or Truth?** (with Seong-gwan Kim and Jung Hur)
+
+<br> 
 
 ## Publications
 
